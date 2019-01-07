@@ -1,0 +1,32 @@
+
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30%;
+  
+}
+
+body {
+    background-color: #C5C1C0;   
+}
+
+.menylink {
+  
+    width: 20%;
+    background-color: #328CC1;
+ 
+}
+
+.menylink:before{
+    content: "";
+    display: block;
+    padding-top: 100%;
+}
+
+h1 {
+    font-family: 'Major Mono Display';
+    font-size: 60px;
+    text-align: center;
+    color: #1D2731;
+}
+
